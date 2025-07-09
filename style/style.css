@@ -195,7 +195,6 @@ nav a {
   background-color: #fff8f3;
   display: flex;
   padding: 130px 230px;
-
   gap: 117px;
   margin-top: 113px;
 }
@@ -221,4 +220,7 @@ footer textarea {
   /* color: white; */
   padding-left: 30px;
   margin-bottom: 24px;
+}
+.footer-column {
+  width: 50%;
 }
