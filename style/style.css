@@ -191,3 +191,34 @@ nav a {
   text-align: center;
   margin-top: 50px;
 }
+.footer {
+  background-color: #fff8f3;
+  display: flex;
+  padding: 130px 230px;
+
+  gap: 117px;
+  margin-top: 113px;
+}
+.footer-title {
+  font-weight: 700;
+  font-size: 35px;
+  color: #181818;
+}
+.footer-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #474747;
+  /* text-align: left; */
+}
+footer input[type='text'],
+footer input[type='email'],
+footer textarea {
+  height: 64px;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  display: block;
+  /* color: white; */
+  padding-left: 30px;
+  margin-bottom: 24px;
+}
