@@ -8,6 +8,7 @@
 .color-primary {
   color: #fd6e0a;
 }
+
 .btn-primary {
   margin-bottom: 10px;
   padding: 18px 36px;
@@ -153,4 +154,40 @@ nav a {
 .skill-des {
   font-size: 16px;
   font-weight: 400;
+}
+.resume-section {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.resume-comumn {
+  display: flex;
+  gap: 71px;
+  text-align: left;
+  justify-content: center;
+}
+.resume-heading {
+  text-align: center;
+}
+.resume-exp {
+  font-size: 30px;
+  font-weight: 700;
+}
+.resume-title {
+  font-size: 25px;
+  font-weight: 700;
+  color: #474747;
+}
+.resume-subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+}
+.resume-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+.text-center {
+  text-align: center;
+  margin-top: 50px;
 }
