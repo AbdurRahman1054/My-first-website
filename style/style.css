@@ -97,6 +97,7 @@ nav a {
 .about-content {
   border: 1px solid #181818;
   /* color: white; */
+  background-color: white;
 }
 .about-heading {
   font-size: 35px;
@@ -110,4 +111,19 @@ nav a {
   display: flex;
   justify-content: space-between;
   padding: 0px 22px 0px 22px;
+  /* gap: 100px; */
+}
+.line-height {
+  line-height: 10px;
+}
+.about-item-title {
+  font-size: 20px;
+  font-weight: 400;
+}
+.about-item-des {
+  font-size: 20px;
+  font-weight: 700;
+}
+.what-i-do {
+  text-align: center;
 }
